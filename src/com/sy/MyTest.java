@@ -16,5 +16,6 @@ public class MyTest {
         System.out.println("分支添加");
         System.out.println("master内容");
         System.out.println("dev分支添加");
+        System.out.println("dev2分支添加");
     }
 }
